@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:blue ;
+}
+h1{
+    color: maroon
+}
+footer{
+    border: blueviolet;
+    border-radius:1ex;
+}
